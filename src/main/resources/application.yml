@@ -1,0 +1,11 @@
+bot:
+  name: DrDesperado
+  token: 1234567
+
+currency:
+  client:
+    url: "http://cbr.ru/scripts/XML_daily.asp"
+
+server:
+  port: 5555
+
